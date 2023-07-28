@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more
 - 🌱 I’m currently learning powershell
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me you know
 
 <!---
 seylasgithub/seylasgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
